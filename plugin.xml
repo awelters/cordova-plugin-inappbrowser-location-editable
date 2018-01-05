@@ -19,7 +19,7 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-inappbrowser-android-location-editable"
+           id="cordova-plugin-inappbrowser-location-editable"
       version="1.7.1">
 
     <name>Android Location InAppBrowser</name>
