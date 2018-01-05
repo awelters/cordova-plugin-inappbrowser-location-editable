@@ -12,11 +12,7 @@ Note : Currently Support Only Android Platform - I will add support to other pla
 Install This Plugin :
 Cordova CLI :
 ```
-cordova plugin add cordova-plugin-inappbrowser-location-editable
-```
-NPM 
-```
-npm install cordova-plugin-inappbrowser-location-editable
+cordova plugin add https://github.com/awelters/cordova-plugin-inappbrowser-location-editable
 ```
 Demo App on Google Play :
 
